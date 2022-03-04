@@ -1,0 +1,3 @@
+﻿  CelFah.cpp
+C:\Users\SimonArrenius\source\repos\Small Assignments\Celcius to Fahrenheit\CelFah.cpp(13,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Celcius to Fahrenheit.vcxproj -> C:\Users\SimonArrenius\source\repos\Small Assignments\x64\Debug\Celcius to Fahrenheit.exe

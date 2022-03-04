@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9abbe5c5-08ed-409f-bac0-5b621ef0a48a": {
+      "ProjectGuid": "9abbe5c5-08ed-409f-bac0-5b621ef0a48a",
+      "DisplayName": "Small Assignments",
+      "ColorIndex": 0
+    },
+    "ff933318-5d20-4c18-a0b5-04faa8ad492e": {
+      "ProjectGuid": "ff933318-5d20-4c18-a0b5-04faa8ad492e",
+      "DisplayName": "Absolutedifference(HARDMODE)",
+      "ColorIndex": 1
+    },
+    "8918a15a-ea4f-4327-9b9e-2b2a655a1571": {
+      "ProjectGuid": "8918a15a-ea4f-4327-9b9e-2b2a655a1571",
+      "DisplayName": "Celcius to Fahrenheit",
+      "ColorIndex": 2
+    },
+    "db8c7280-07a0-45c2-a203-f4fab4af8dfa": {
+      "ProjectGuid": "db8c7280-07a0-45c2-a203-f4fab4af8dfa",
+      "DisplayName": "EvenOdd",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ebc46957-4dd9-4447-9ba9-c6018bb96b94": {
+      "ProjectGuid": "ebc46957-4dd9-4447-9ba9-c6018bb96b94",
+      "DisplayName": "LastDigit",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

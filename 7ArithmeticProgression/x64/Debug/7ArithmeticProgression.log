@@ -1,0 +1,4 @@
+﻿  ArithmeticProgression.cpp
+C:\Users\SimonArrenius\source\repos\Small Assignments\7ArithmeticProgression\ArithmeticProgression.cpp(41,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\SimonArrenius\source\repos\Small Assignments\7ArithmeticProgression\ArithmeticProgression.cpp(22,14): warning C4101: 'd': unreferenced local variable
+  7ArithmeticProgression.vcxproj -> C:\Users\SimonArrenius\source\repos\Small Assignments\x64\Debug\7ArithmeticProgression.exe
